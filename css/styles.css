@@ -16,6 +16,7 @@
   --gray: #ededed;
   --red: #db0d0d;
   --black: #000000;
+  --brown: #8b5223;
 }
 
 html,
@@ -27,7 +28,7 @@ body {
 header {
   width: 100%;
   height: 500px;
-  background: var(--red);
+  background: var(--brown);
 }
 
 .content {
@@ -360,7 +361,7 @@ footer {
 footer .main {
   width: 100%;
   height: 200px;
-  background: var(--red);
+  background: var(--brown);
   padding: 20px 10px;
 }
 
