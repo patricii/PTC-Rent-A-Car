@@ -50,7 +50,7 @@ nav {
 }
 
 .brand {
-  font-size: 24px;
+  font-size: 38px;
   color: var(--black);
   cursor: pointer;
 }
@@ -93,7 +93,6 @@ nav ul button:hover {
 }
 
 .content .header-block {
-  max-width: 1000px;
   min-width: 300px;
   height: 450px;
   background: var(--black);
@@ -487,4 +486,5 @@ footer .last {
     flex-direction: column;
     padding-left: 10%;
   }
+
 }
