@@ -5,7 +5,7 @@ function pesquisar(){
     input = document.getElementById("pesquisa");
     filtro = input.value.toUpperCase();
     menu = document.getElementById("catalogo");
-    menuItens = menu.getElementsByClassName("card-content");
+    menuItens = menu.getElementsByClassName("card-item");
 
     for(var i = 0 ; i <= menuItens.length ; i++)
     {
