@@ -16,7 +16,7 @@
   --gray: #ededed;
   --red: #db0d0d;
   --black: #000000;
-  --brown: #b86019;
+  --brown: #883905;
 }
 
 html,
@@ -51,7 +51,7 @@ nav {
 
 .brand {
   font-size: 38px;
-  color: var(--black);
+  color: var(--gray);
   cursor: pointer;
 }
 
@@ -67,7 +67,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: var(--black);
+  color: var(--gray);
   text-decoration: none;
 }
 
